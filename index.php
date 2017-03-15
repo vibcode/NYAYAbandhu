@@ -12,8 +12,8 @@
       <h2>NYAYAbandhu</h2>
       <p>Looking for help about your case,<br>Here is your friend.</p>
       <form method="post" action="ind_action.php">
-        <input type="text" name="cname"> <input type="text" name="name"><br>
-        <input type="text" name="email"> <input type="text" name="state"><br> 
+        Case: <input type="text" name="cname"> Name: <input type="text" name="name"><br>
+        Email-Id: <input type="text" name="email"> State: <input type="text" name="state"><br> 
         <input type="submit" name="submit"><br>
 
 
