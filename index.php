@@ -1,9 +1,27 @@
+<?php include("header.php"); ?>
+<table id="structure">
+  <tr>
+    <td id="navigation">
 
-<html>
-<head>
-  <title>Basic</title>
-</head>
-<body>
-  Basic
-</body>
-</html>
+        <a href="">Supreme Court of India</a><br><br>
+        <a href="">Recent Cases</a><br><br>
+        <a href="">Some famous Indian Cases</a><br><br>
+
+    </td>
+    <td align="center" id="page">
+      <h2>NYAYAbandhu</h2>
+      <p>Looking for help about your case,<br>Here is your friend.</p>
+      <form method="post" action="ind_action.php">
+        <input type="text" name="cname"> <input type="text" name="name"><br>
+        <input type="text" name="email"> <input type="text" name="state"><br> 
+        <input type="submit" name="submit"><br>
+
+
+
+
+      </form>
+
+    </td>
+  </tr>
+</table>
+<?php include("footer.php"); ?>
