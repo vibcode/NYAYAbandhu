@@ -15,8 +15,9 @@
         <ul type="square">
           <?php
           $case=$_POST['cname'];
-            echo "<li>"."<a target=_blank href=https://indiankanoon.org/search/?formInput={$case}%20%20+doctypes:judgments>Some previous ".$case." cases in India</a>"."<br>"."<br>";
-            echo "<li>"."<a target=_blank href=https://indiankanoon.org/search/?formInput={$case}%20%20+doctypes:laws>Laws in Indian Constitution related to "."$case"." </a>"."<br>"."<br>";
+          $comp=urlencode($case);
+            echo "<li>"."<a target=_blank href=https://indiankanoon.org/search/?formInput={$comp}%20%20+doctypes:judgments>Some previous ".$case." cases in India</a>"."<br>"."<br>";
+            echo "<li>"."<a target=_blank href=https://indiankanoon.org/search/?formInput={$comp}%20%20+doctypes:laws>Laws in Indian Constitution related to "."$case"." </a>"."<br>"."<br>";
           ?>
         </ul>
       <form method="post" action="mailto.php">
