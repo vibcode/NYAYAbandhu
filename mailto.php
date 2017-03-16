@@ -27,7 +27,7 @@
         }
         else echo "Unable to send your request";
         */
-        echo "<a href=mailto:vibhorporwal99@gmail.com?subject=Legal+Aid+Wanted&body={$mess}>"."<font size=5px face=Broadway>"."Mail our expert"."</a>"."</font>";
+        echo "<a href=mailto:vibhorporwal99@gmail.com?subject=Legal+Aid+Wanted&body=$mess>"."<font size=5px face=Broadway>"."Mail our expert"."</a>"."</font>";
       ?>
 
     </td>
