@@ -9,7 +9,7 @@
 
     </td>
     <td id="page">
-      <h2>NYAYAbandhu</h2>
+      <h2><u>NYAYAbandhu</u></h2>
 
         Similar Cases:<br>
         <ul type="square">
