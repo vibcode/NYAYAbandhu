@@ -97,5 +97,10 @@ ul.pages
 }
 img
 {
-border-radius: 30px;
+border-radius: 10px;
+}
+#imgl
+{
+    padding-right: 2em;
+    padding-top: 3em;
 }
