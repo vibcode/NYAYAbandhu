@@ -10,7 +10,7 @@
     </td>
     <td id="page">
       <h2 align="center">NYAYAbandhu</h2>
-      <p align="center">Looking for help about your case,here is your friend.</p>
+      <p align="center"><font face="Chiller" size="5px">Looking for help about your case,here is your friend.</font></p>
       <form method="post" action="ind_action.php">
       Case: <input type="text" name="cname"><br><br>Name:<input type="text" name="name"><br><br>
 
