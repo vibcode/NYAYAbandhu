@@ -9,7 +9,7 @@
 
     </td>
     <td align="center" id="page">
-      <h2>NYAYAbandhu</h2>
+      <h2><u>NYAYAbandhu</u></h2>
       <?php
         $email=$_POST['email'];
         $desc=$_POST['desc'];
