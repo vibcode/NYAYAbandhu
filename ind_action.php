@@ -12,7 +12,7 @@
       <h2>NYAYAbandhu</h2>
 
         Similar Cases:<br>
-        <ul>
+        <ul type="square">
           <?php
           $case=$_POST['cname'];
             echo "<li>"."<a target=_blank href=https://indiankanoon.org/search/?formInput={$case}%20%20+doctypes:judgments>Some previous ".$case." cases in India</a>"."<br>"."<br>";
