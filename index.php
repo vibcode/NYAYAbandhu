@@ -2,7 +2,7 @@
 <table id="structure">
   <tr>
     <td id="navigation">
-      Quick Links:<br><br>
+      <font face=Broadway>Quick Links:</font><br><br>
         <a href="http://supremecourtofindia.nic.in/" target="_blank">Supreme Court of India</a><br><br>
         <a href="https://www.supremecourt.uk/current-cases/" target="_blank">Recent Cases</a><br><br>
         <a href="http://topyaps.com/top-10-famous-court-cases-in-india" target="_blank">Some famous Indian Cases</a><br><br>
